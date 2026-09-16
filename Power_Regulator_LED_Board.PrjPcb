@@ -68,6 +68,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZXKSKIGX
 
+[Document2]
+DocumentPath=..\..\..\..\ojuma\Pictures\Camera Roll\x\LIB_MKRAWT-00-0000-0D0HG235H\MKRAWT-00-0000-0D0HG235H\Altium\MKRAWT0000000D0HG235H.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document3]
+DocumentPath=..\..\..\..\ojuma\Pictures\Camera Roll\x\LIB_MKRAWT-00-0000-0D0HG235H\MKRAWT-00-0000-0D0HG235H\Altium\MKRAWT-00-0000-0D0HG235H.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
