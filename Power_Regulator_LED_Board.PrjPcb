@@ -255,6 +255,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXHRSKGK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Power_Regulator_LED_Board\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
